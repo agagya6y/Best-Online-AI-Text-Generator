@@ -1,6 +1,3 @@
-Sure! Here's a draft text for your GitHub backlink:
-
----
 
 # AI-Powered Text Generator - Artikelschreiber.com  
 
@@ -16,6 +13,4 @@ Whether you're looking for creative inspiration or need to quickly generate prof
 
 Visit [Artikelschreiber.com](https://www.artikelschreiber.com/) and experience the future of content generation today!  
 
----  
 
-Feel free to tweak this to suit your style or context! Let me know if you'd like more details added.
